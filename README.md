@@ -90,7 +90,7 @@ Update the <build> section of your pom.xml to include the Allure Maven plugin:
     </plugins>
 </build>
 5. Run your tests
-Execute your TestNG tests using Maven:
+Execute your TestNG tests using Maven
 
 mvn clean test
 This will run your tests and generate the Allure results in the target/allure-results directory.
