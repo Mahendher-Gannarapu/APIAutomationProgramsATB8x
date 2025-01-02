@@ -5,7 +5,7 @@ import io.qameta.allure.Owner;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestIntegrationSample {
+public class TestIntegrationFlow {
 
     // Create A Booking, Create a Token
     // Get booking
