@@ -3,8 +3,7 @@
 <suite name="All Test Suite">
     <groups>
         <run>
-            <include name="qa"></include>
-            <exclude name="reg"></exclude>
+            <include name="prod"></include>
         </run>
     </groups>
     <test verbose="2" preserve-order="true" name="C:/Users/Mahendher/IdeaProjects/APIAutomationProgramsATB8x">
